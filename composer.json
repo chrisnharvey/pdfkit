@@ -1,6 +1,6 @@
 {
     "name": "chrisnharvey/pdfkit",
-    "description": "HTML to PDF converter for PHP using wkhtmltopdf via FFI.",
+    "description": "HTML to PDF converter for PHP using WebKit. Uses the wkhtmltopdf C library via FFI.",
     "type": "library",
     "license": "MIT",
     "authors": [
