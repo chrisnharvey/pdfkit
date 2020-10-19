@@ -9,8 +9,8 @@ Uses the [wkhtmltopdf](http://github.com/antialize/wkhtmltopdf) C library via PH
 ## Requirements
 
 - PHP 7.4 or later
-- FFI extension
-- wkhtmltopdf library
+- FFI extension (see Dockerfile)
+- wkhtmltopdf library (see Dockerfile)
 
 ## Installation
 
