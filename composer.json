@@ -1,0 +1,24 @@
+{
+    "name": "chrisnharvey/pdfkit",
+    "description": "HTML to PDF converter for PHP using wkhtmltopdf via FFI.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chris Harvey",
+            "email": "chris@chrisnharvey.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4",
+        "ext-ffi": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ChrisHarvey\\PDFKit\\": "src/"
+        }
+    }
+}
